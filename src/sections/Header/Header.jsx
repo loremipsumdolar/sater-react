@@ -38,6 +38,7 @@ const Header = () => {
                 textTransform="uppercase"
                 borderBottom="2px"
                 borderBottomColor="black"
+                lineHeight="1"
               >
                 Sater
               </Box>
